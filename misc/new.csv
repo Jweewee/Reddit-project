@@ -1,0 +1,148 @@
+Cateogry number, Title, Abbreviation
+1,Progress Notes,PROGRESS
+2,Consultations,CONSULT
+3,Procedures,PROCEDURE
+4,Hist & Exam,Hist & Exam
+5,Discharge Summary,Disch Summ
+6,ED Notes,ED Note
+7,Initial Assessments,Init Assess
+8,ED Triage Notes,ED Triage No
+9,Case Communication,Case Comm
+10,OR Nursing,THEATRE NURS
+11,OR Surgeon,THEATRE SURG
+12,Theatre PreOp,OR PREOP
+13,Theatre PostOp,SURG POSTOP
+14,Theatre Anaesthesia,THTR ANAESTH
+15,Outpatient Progres*,OP Prog Nt
+16,Outpatient History*,OP H&E Nt
+17,Outpatient Procedu*,OP Proc Nt
+19,ED Clinician Notes,ED Clin Note
+20,Decision,Decision
+23,Note to Patient vi*,NOTE TO PATI
+24,Anaesthesia Prepro*,AN Preproc
+25,Anaesthesia Postpr*,AN Postproc
+26,Hist & Exam (View-*,H&E(View-Onl
+27,Interval Hist & Ex*,Interval His
+28,Anaesthesia Proced*,Anaesth Proc
+29,Addendum Note,Addendum
+30,Care Plan,Care Plan
+32,Hospital Course,HospCourse
+33,Subjective & Objec*,SubjObj
+35,Maternity Delivery*,Mat Delivery
+36,Telephone Encounter,TELEPHONE EN
+37,Patient Instructio*,PATIENT INST
+38,Assessment & Plan *,A&P Note
+39,Communication Body,COMMUNICATIO
+40,ED AVS Snapshot,AVS SNAPSHOT
+41,Letter,LETTER
+42,Lactation Note,Lactation
+43,Committee Review,Comm Rev
+44,IP AVS Snapshot,IP AVS SNAP
+45,MR AVS Snapshot,MR AVS Snap
+46,Pharmacy Enrolment*,Prescr Enrol
+50,Pre-Procedure Asse*,Pre-Procedur
+59,Discharge Instr - *,Suppl Instr
+60,Discharge Instr - *,AVS First In
+61,Discharge Instr - *,Med Instr
+62,Discharge Instr - *,Pharm Instr
+63,Discharge Instr - *,Activity Ins
+64,Discharge Instr - *,Diet Instr
+65,Discharge Instr - *,Appt Instr
+66,Discharge Instr - *,Lab Instr
+67,Discharge Instr - *,Order Instr
+68,Discharge Instr - *,Other Instr
+69,CAA (Care Area Ass*,CAA
+70,Nursing Note,Nursing
+71,ACP (Advance Care *,ACP
+72,ERAS,ERAS
+77,Result QuickNote,Result Quick
+80,Radiation Planning*,Rad Plan
+81,Radiation Completi*,Rad Comp
+88,Form,Form
+93,BH Treatment Plan,BH TP
+94,Group Note,Group Note
+95,Video Visit Routin*,Video Visit
+96,E-Visit Routing Co*,E-Visit
+97,Claim Note,Claim Note
+100,Dialysis Plan of C*,Dialysis POC
+1000,SMD Notes,SMD Notes
+10000,Resuscitation Docu*,Code Doc
+10001,Sedation Documenta*,Sedation Doc
+10973,JDT PCOD,JDT PCOD
+16000,Dental Procedure D*,Dent Proc
+27000,Home Health,Home Health
+61251,Inpatient Self-Adm*,INP SAS
+61252,Outpatient Self-Ad*,OP SAS
+61253,Inpatient Medicati*,IP MED CHT
+61254,Outpatient Medicat*,OP MED CHT
+93000,Hospice,Hospice
+93002,Hospice Plan of Ca*,Hospice POC
+93006,Hospice Non-Covered,HSPC NCD
+99999,Hard Deleted Note,HARD DELETED
+100000,Psych,PSYCH
+100001,Miscellaneous,Misc
+100002,Code Status and Ad*,CODE STATUS
+100003,Transfer of Care,TRANSFER OF
+100009,Medical Certificate,MC
+160000,ED Physician Update,ED Dr Update
+160001,ED Attestation,ED Attestati
+160002,ED Procedure Note,ED Procedure
+160003,ED PSA Notes,ED PSA Notes
+160004,Confidential Notes,Confidential
+160005,ED Nursing Notes,ED Nurs Note
+160006,EDTC/EDTU Nursing *,EDTC Nur Not
+160007,EDTC/EDTU Clinicia*,EDTC Phy Not
+160008,HIB Notes,HIB Notes
+160009,GEM Notes,GEM Notes
+160010,ED Confidential No*,ED Conf Note
+160011,ED NOK Update Notes,NOK Update
+160012,EDTC/EDTU Progress*,EDTC P Notes
+304001,Specialty Board - *,MTB
+1000000,Brief Op Note,BRIEF OP NOT
+1000001,Care Plan Document*,CARE PL
+1000002,Multidisciplinary *,MDM
+1000003,Treatment Plan,TREATMENT PL
+1000004,Op Note,OP NOTE
+1000005,Downtime Event Note,DOWNTIME
+1000006,Pre-Procedure Inst*,PRE-PROCED
+1000007,Significant Event,Event
+1000008,Anesthesia Post-op*,AN Follow-up
+1000009,Medical Student,MEDICAL STUD
+1000010,Medical Report,Med Rep
+1000011,Radiologist Note,Radiologist
+1000012,Radiologist Post-P*,Rad Post-Pro
+1000013,Radiation Oncology*,Rad Onc
+12300001,Lab Note Type,Lab Specimen
+30453001,Social Report,Social Repor
+30453002,Case Update,Case Update
+40800001,ASP Note,ASP
+40800002,PN Note,PN Note
+40800003,Anticoagulation No*,ACC Notes
+50080101,Personal Note,Personal Not
+60080101,Dialysis Note,Dialysis Not
+304756001,MDT (Attendee),MDT Attendee
+304756002,MDT (Final),MDT Final
+304756003,Form Base,Form Base
+1090000011,BMT Planning,BMT Planning
+2100000001,Medical Report,Medical Repo
+2100000002,MRO Paper Form,MRO Paper Fo
+2100000003,Sensitive Transpla*,SensitiveTXP
+3040550001,Brain/Cardiac Death,Death
+3040840006,Peritoneal Dialysi*,PD Note
+3049000001,Communication Note,Comms
+3049000002,Pre-Sedation,Pre-Sedation
+3049000003,Med Intervention,Med Interven
+3049000004,Chargeable Note,Chargeable
+3049000005,Clinical Pathway,Clin Path
+3049000006,Admission Notes,Admission
+3049000007,Transfer Notes,Transfer
+3049000008,Rounding Notes,Rounding
+3049000009,Allied Health,Allied Healt
+3049000010,Blood Product Rele*,Blood Produc
+3049000011,Inpatient DM manag*,Inpatient DM
+3049000012,Transplant Coordin*,Transplant C
+40830082021,Admission Medicati*,Adm Med Rec
+40830082022,Discharge Medicati*,Dc Med Recon
+*,Radiation Oncology*,Rad Onc
+MDT(ATTENDEE),IMH MDT (Attendee),MDT Attendee
+MDT(FINAL),IMH MDT (Final),MDT (Final)

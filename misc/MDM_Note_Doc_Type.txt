@@ -1,0 +1,636 @@
+
+Page 1                                                                                                          Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+INI: INP-Inpatient Data      Item: 5010      Name: NOTE - TYPE
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    1                    Category number:    2                    Category number:    3
+   Title:              Progress Notes       Title:              Consultations        Title:              Procedures
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       1                    Community ID:       2                    Community ID:       3
+   Abbreviation:       PROGRESS             Abbreviation:       CONSULT              Abbreviation:       PROCEDURE
+   Synonym:            Progress             Synonym:            consult              Synonym:            Procedure
+                       Progress note                                                                     
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    4                    Category number:    5                    Category number:    6
+   Title:              Hist & Exam          Title:              Discharge Summary    Title:              ED Notes
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       4                    Community ID:       5                    Community ID:       6
+   Abbreviation:       Hist & Exam          Abbreviation:       Disch Summ           Abbreviation:       ED Note
+   Synonym:                                 Synonym:                                 Synonym:            ED Note
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    7                    Category number:    8                    Category number:    9
+   Title:              Initial Assessments  Title:              ED Triage Notes      Title:              Case Communication
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       7                    Community ID:       8                    Community ID:       9
+   Abbreviation:       Init Assess          Abbreviation:       ED Triage No         Abbreviation:       Case Comm
+   Synonym:            initial assessment   Synonym:            triage               Synonym:            
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    10                   Category number:    11                   Category number:    12
+   Title:              OR Nursing           Title:              OR Surgeon           Title:              Theatre PreOp
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       10                   Community ID:       11                   Community ID:       12
+   Abbreviation:       THEATRE NURS         Abbreviation:       THEATRE SURG         Abbreviation:       OR PREOP
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    13                   Category number:    14                   Category number:    15
+   Title:              Theatre PostOp       Title:              Theatre Anaesthesia  Title:              Outpatient Progres*
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       13                   Community ID:       14                   Community ID:       15
+   Abbreviation:       SURG POSTOP          Abbreviation:       THTR ANAESTH         Abbreviation:       OP Prog Nt
+   Status:             Active               Status:             Active               Status:             Deactivated
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+Page 2                                                                                                          Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    16                   Category number:    17                   Category number:    19
+   Title:              Outpatient History*  Title:              Outpatient Procedu*  Title:              ED Clinician Notes
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       16                   Community ID:       17                   Community ID:       19
+   Abbreviation:       OP H&E Nt            Abbreviation:       OP Proc Nt           Abbreviation:       ED Clin Note
+   Synonym:                                 Synonym:                                 Synonym:            ED PROV
+                                                                                                         ED provider
+                                                                                                         ED provider note
+   Status:             Deactivated          Status:             Deactivated          Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    20                   Category number:    23                   Category number:    24
+   Title:              Decision             Title:              Note to Patient vi*  Title:              Anaesthesia Prepro*
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       20                   Community ID:       23                   Community ID:       24
+   Abbreviation:       Decision             Abbreviation:       NOTE TO PATI         Abbreviation:       AN Preproc
+   Synonym:                                 Synonym:            NOTE TO PAT          Synonym:            anes pre-op
+                                                                                                         anes pre-procedure
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    25                   Category number:    26                   Category number:    27
+   Title:              Anaesthesia Postpr*  Title:              Hist & Exam (View-*  Title:              Interval Hist & Ex*
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       25                   Community ID:       26                   Community ID:       27
+   Abbreviation:       AN Postproc          Abbreviation:       H&E(View-Onl         Abbreviation:       Interval His
+   Synonym:            anes post-op         Synonym:                                 Synonym:            
+                       anes post-procedure                                                               
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    28                   Category number:    29                   Category number:    30
+   Title:              Anaesthesia Proced*  Title:              Addendum Note        Title:              Care Plan
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       28                   Community ID:       29                   Community ID:       30
+   Abbreviation:       Anaesth Proc         Abbreviation:       Addendum             Abbreviation:       Care Plan
+   Synonym:                                 Synonym:                                 Synonym:            CARE
+                                                                                                         PLAN
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    32                   Category number:    33                   Category number:    35
+   Title:              Hospital Course      Title:              Subjective & Objec*  Title:              Maternity Delivery*
+Page 3                                                                                                          Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       32                   Community ID:       33                   Community ID:       35
+   Abbreviation:       HospCourse           Abbreviation:       SubjObj              Abbreviation:       Mat Delivery
+   Synonym:                                 Synonym:            SUBJ&OBJ             Synonym:            DELIVERY
+                                                                SUBJOBJ                                  
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    36                   Category number:    37                   Category number:    38
+   Title:              Telephone Encounter  Title:              Patient Instructio*  Title:              Assessment & Plan *
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       36                   Community ID:       37                   Community ID:       38
+   Abbreviation:       TELEPHONE EN         Abbreviation:       PATIENT INST         Abbreviation:       A&P Note
+   Synonym:            TELEPHONE            Synonym:                                 Synonym:            VISIT NOTE
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    39                   Category number:    40                   Category number:    41
+   Title:              Communication Body   Title:              ED AVS Snapshot      Title:              Letter
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       39                   Community ID:       40                   Community ID:       41
+   Abbreviation:       COMMUNICATIO         Abbreviation:       AVS SNAPSHOT         Abbreviation:       LETTER
+   Synonym:                                 Synonym:            AVS                  Synonym:            
+                                                                SNAPSHOT                                 
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    42                   Category number:    43                   Category number:    44
+   Title:              Lactation Note       Title:              Committee Review     Title:              IP AVS Snapshot
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       42                   Community ID:       43                   Community ID:       44
+   Abbreviation:       Lactation            Abbreviation:       Comm Rev             Abbreviation:       IP AVS SNAP
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    45                   Category number:    46                   Category number:    50
+   Title:              MR AVS Snapshot      Title:              Pharmacy Enrolment*  Title:              Pre-Procedure Asse*
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       45                   Community ID:       46                   Community ID:       50
+   Abbreviation:       MR AVS Snap          Abbreviation:       Prescr Enrol         Abbreviation:       Pre-Procedur
+   Synonym:                                 Synonym:                                 Synonym:            Preprocedure
+                                                                                                         Assessment
+   Status:             Active               Status:             Deactivated          Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+Page 4                                                                                                          Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+ 
+   Category number:    59                   Category number:    60                   Category number:    61
+   Title:              Discharge Instr - *  Title:              Discharge Instr - *  Title:              Discharge Instr - *
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       59                   Community ID:       60                   Community ID:       61
+   Abbreviation:       Suppl Instr          Abbreviation:       AVS First In         Abbreviation:       Med Instr
+   Synonym:            disch instr          Synonym:            avs first            Synonym:            disch inst med
+                       disch inst suppl                         avs first page                           discharge instruct*
+                       supplementary inst*                      first page instruc*                      discharge instruct*
+                       suppl instr                              avs instructions                         med
+                                                                avs instr                                medications
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    62                   Category number:    63                   Category number:    64
+   Title:              Discharge Instr - *  Title:              Discharge Instr - *  Title:              Discharge Instr - *
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       62                   Community ID:       63                   Community ID:       64
+   Abbreviation:       Pharm Instr          Abbreviation:       Activity Ins         Abbreviation:       Diet Instr
+   Synonym:            disch inst pharm     Synonym:            act                  Synonym:            diet
+                       discharge instruct*                      activity                                 disch inst diet
+                       discharge instruct*                      disch inst act                           discharge instruct*
+                       pharmacy                                 discharge instruct*                      food
+                       where to get                             discharge instruct*                      nutrition
+                                                                                                         what to eat
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    65                   Category number:    66                   Category number:    67
+   Title:              Discharge Instr - *  Title:              Discharge Instr - *  Title:              Discharge Instr - *
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       65                   Community ID:       66                   Community ID:       67
+   Abbreviation:       Appt Instr           Abbreviation:       Lab Instr            Abbreviation:       Order Instr
+   Synonym:            appointment          Synonym:            disch inst lab       Synonym:            disch inst gen
+                       appt                                     discharge instruct*                      disch inst ord
+                       disch inst app                           lab                                      disch inst other o*
+                       discharge instruct*                                                               discharge instruct*
+                       discharge instruct*                                                               discharge instruct*
+                       discharge instruct*                                                               discharge instruct*
+                                                                                                         discharge instruct*
+                                                                                                         discharge instruct*
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    68                   Category number:    69                   Category number:    70
+   Title:              Discharge Instr - *  Title:              CAA (Care Area Ass*  Title:              Nursing Note
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       68                   Community ID:       69                   Community ID:       70
+Page 5                                                                                                          Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+   Abbreviation:       Other Instr          Abbreviation:       CAA                  Abbreviation:       Nursing
+   Synonym:            disch inst           Synonym:            CAA                  Synonym:            
+                       disch inst add                           MDS CAA                                  
+                       disch inst other i*                      MDS Care Area Asse*                      
+                       discharge instruct*                      Care Area Assessme*                      
+                       discharge instruct*                                                               
+                       discharge instruct*                                                               
+                       discharge instruct*                                                               
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    71                   Category number:    72                   Category number:    77
+   Title:              ACP (Advance Care *  Title:              ERAS                 Title:              Result QuickNote
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       71                   Community ID:       72                   Community ID:       77
+   Abbreviation:       ACP                  Abbreviation:       ERAS                 Abbreviation:       Result Quick
+   Synonym:            ACP Note             Synonym:            Erillinen asiakirja  Synonym:            Result QuickNote
+                       Advance Care Plann*                                                               
+                       Care Preferences                                                                  
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    80                   Category number:    81                   Category number:    88
+   Title:              Radiation Planning*  Title:              Radiation Completi*  Title:              Form
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       80                   Community ID:       81                   Community ID:       88
+   Abbreviation:       Rad Plan             Abbreviation:       Rad Comp             Abbreviation:       Form
+   Synonym:            Radiation Therapy *  Synonym:            Radiation Therapy *  Synonym:            
+                       Rad Thp Planning N*                      Rad Thp Completion*                      
+                       Planning Note                            Completion Note                          
+                       Rad Thp Plan                             Rad Thp Summary                          
+                                                                Radiation Therapy *                      
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    93                   Category number:    94                   Category number:    95
+   Title:              BH Treatment Plan    Title:              Group Note           Title:              Video Visit Routin*
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       93                   Community ID:       94                   Community ID:       95
+   Abbreviation:       BH TP                Abbreviation:       Group Note           Abbreviation:       Video Visit
+   Synonym:            Behavioral Health *  Synonym:                                 Synonym:            video
+                       Mental Health Trea*                                                               visit
+                       MH Treatment Plan                                                                 routing
+                       BH TP                                                                             
+                       MH TP                                                                             
+                       Behavioral Health *                                                               
+                       Mental Health TP                                                                  
+   Status:             Active               Status:             Active               Status:             Active
+Page 6                                                                                                          Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    96                   Category number:    97                   Category number:    100
+   Title:              E-Visit Routing Co*  Title:              Claim Note           Title:              Dialysis Plan of C*
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       96                   Community ID:       97                   Community ID:       100
+   Abbreviation:       E-Visit              Abbreviation:       Claim Note           Abbreviation:       Dialysis POC
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    1000                 Category number:    10000                Category number:    10001
+   Title:              SMD Notes            Title:              Resuscitation Docu*  Title:              Sedation Documenta*
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       1000                 Community ID:       10000                Community ID:       10001
+   Abbreviation:       SMD Notes            Abbreviation:       Code Doc             Abbreviation:       Sedation Doc
+   Synonym:                                 Synonym:                                 Synonym:            Sed doc
+   Status:             Deactivated          Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    10973                Category number:    16000                Category number:    27000
+   Title:              JDT PCOD             Title:              Dental Procedure D*  Title:              Home Health 
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       10973                Community ID:       16000                Community ID:       27000
+   Abbreviation:       JDT PCOD             Abbreviation:       Dent Proc            Abbreviation:       Home Health
+   Synonym:                                 Synonym:            dent proc            Synonym:            
+   Status:             Deactivated          Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    61251                Category number:    61252                Category number:    61253
+   Title:              Inpatient Self-Adm*  Title:              Outpatient Self-Ad*  Title:              Inpatient Medicati*
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       61251                Community ID:       61252                Community ID:       61253
+   Abbreviation:       INP SAS              Abbreviation:       OP SAS               Abbreviation:       IP MED CHT
+   Synonym:                                 Synonym:            OP SAS               Synonym:            
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Required             Category Type:      Required             Category Type:      Required
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    61254                Category number:    93000                Category number:    93002
+   Title:              Outpatient Medicat*  Title:              Hospice              Title:              Hospice Plan of Ca*
+   Owner:              1                    Owner:              1                    Owner:              1
+   Community ID:       61254                Community ID:       93000                Community ID:       93002
+   Abbreviation:       OP MED CHT           Abbreviation:       Hospice              Abbreviation:       Hospice POC
+   Synonym:                                 Synonym:                                 Synonym:            Hospice POC
+   Status:             Active               Status:             Active               Status:             Active
+Page 7                                                                                                          Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+   Category Type:      Required             Category Type:      Required             Category Type:      Optional
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    93006                Category number:    99999                Category number:    100000
+   Title:              Hospice Non-Covered  Title:              Hard Deleted Note    Title:              Psych
+   Owner:              1                    Owner:              1                    Owner:              120
+   Community ID:       93006                Community ID:       99999                Community ID:       120105
+   Abbreviation:       HSPC NCD             Abbreviation:       HARD DELETED         Abbreviation:       PSYCH
+   Synonym:            Hospice Non Covered  Synonym:                                 Synonym:            
+   Status:             Active               Status:             Deactivated          Status:             Deactivated
+   Category Type:      Optional             Category Type:      Required             Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    100001               Category number:    100002               Category number:    100003
+   Title:              Miscellaneous        Title:              Code Status and Ad*  Title:              Transfer of Care
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120110               Community ID:       140111               Community ID:       140115
+   Abbreviation:       Misc                 Abbreviation:       CODE STATUS          Abbreviation:       TRANSFER OF
+   Synonym:                                 Synonym:                                 Synonym:            Handoff
+   Status:             Active               Status:             Deactivated          Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    100009               Category number:    160000               Category number:    160001
+   Title:              Medical Certificate  Title:              ED Physician Update  Title:              ED Attestation
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       140121               Community ID:       140117               Community ID:       140118
+   Abbreviation:       MC                   Abbreviation:       ED Dr Update         Abbreviation:       ED Attestati
+   Synonym:            MC                   Synonym:            Update               Synonym:            Attestation
+   Status:             Deactivated          Status:             Active               Status:             Deactivated
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    160002               Category number:    160003               Category number:    160004
+   Title:              ED Procedure Note    Title:              ED PSA Notes         Title:              Confidential Notes
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       140119               Community ID:       120126               Community ID:       120128
+   Abbreviation:       ED Procedure         Abbreviation:       ED PSA Notes         Abbreviation:       Confidential
+   Synonym:                                 Synonym:            PSA Notes            Synonym:            confi
+                                                                                                         confi notes
+   Status:             Active               Status:             Active               Status:             Deactivated
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    160005               Category number:    160006               Category number:    160007
+   Title:              ED Nursing Notes     Title:              EDTC/EDTU Nursing *  Title:              EDTC/EDTU Clinicia*
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120112               Community ID:       120122               Community ID:       120134
+   Abbreviation:       ED Nurs Note         Abbreviation:       EDTC Nur Not         Abbreviation:       EDTC Phy Not
+Page 8                                                                                                          Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    160008               Category number:    160009               Category number:    160010
+   Title:              HIB Notes            Title:              GEM Notes            Title:              ED Confidential No*
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120136               Community ID:       120138               Community ID:       120147
+   Abbreviation:       HIB Notes            Abbreviation:       GEM Notes            Abbreviation:       ED Conf Note
+   Synonym:            HIB Notes            Synonym:            GEM Notes            Synonym:            
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    160011               Category number:    160012               Category number:    304001
+   Title:              ED NOK Update Notes  Title:              EDTC/EDTU Progress*  Title:              Specialty Board - *
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120152               Community ID:       120153               Community ID:       120131
+   Abbreviation:       NOK Update           Abbreviation:       EDTC P Notes         Abbreviation:       MTB
+   Synonym:                                 Synonym:            EDTC/EDTU Progress*  Synonym:            Specialty Board - *
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    1000000              Category number:    1000001              Category number:    1000002
+   Title:              Brief Op Note        Title:              Care Plan Document*  Title:              Multidisciplinary *
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120106               Community ID:       120107               Community ID:       120108
+   Abbreviation:       BRIEF OP NOT         Abbreviation:       CARE PL              Abbreviation:       MDM
+   Synonym:                                 Synonym:                                 Synonym:            MDM
+                                                                                                         multi-disciplinary
+   Status:             Deactivated          Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    1000003              Category number:    1000004              Category number:    1000005
+   Title:              Treatment Plan       Title:              Op Note              Title:              Downtime Event Note
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120109               Community ID:       130111               Community ID:       120111
+   Abbreviation:       TREATMENT PL         Abbreviation:       OP NOTE              Abbreviation:       DOWNTIME
+   Synonym:            TP                   Synonym:            OPERATIVE            Synonym:            RECOVERY
+   Status:             Deactivated          Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    1000006              Category number:    1000007              Category number:    1000008
+   Title:              Pre-Procedure Inst*  Title:              Significant Event    Title:              Anesthesia Post-op*
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       140112               Community ID:       140113               Community ID:       140114
+Page 9                                                                                                          Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+   Abbreviation:       PRE-PROCED           Abbreviation:       Event                Abbreviation:       AN Follow-up
+   Synonym:            PRE-PROC INST        Synonym:            EVENT                Synonym:            ANESTHESIA FOLLOW-*
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    1000009              Category number:    1000010              Category number:    1000011
+   Title:              Medical Student      Title:              Medical Report       Title:              Radiologist Note
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       140116               Community ID:       140120               Community ID:       120124
+   Abbreviation:       MEDICAL STUD         Abbreviation:       Med Rep              Abbreviation:       Radiologist
+   Synonym:                                 Synonym:            Medical Assessment*  Synonym:            Radiologist Note
+   Status:             Active               Status:             Deactivated          Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    1000012              Category number:    1000013              Category number:    12300001
+   Title:              Radiologist Post-P*  Title:              Radiation Oncology*  Title:              Lab Note Type
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120127               Community ID:       120102               Community ID:       120129
+   Abbreviation:       Rad Post-Pro         Abbreviation:       Rad Onc              Abbreviation:       Lab Specimen
+   Status:             Active               Status:             Active               Status:             Deactivated
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    30453001             Category number:    30453002             Category number:    40800001
+   Title:              Social Report        Title:              Case Update          Title:              ASP Note
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120115               Community ID:       120132               Community ID:       120113
+   Abbreviation:       Social Repor         Abbreviation:       Case Update          Abbreviation:       ASP
+   Synonym:            Social Report        Synonym:            Case Update          Synonym:            ASP
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    40800002             Category number:    40800003             Category number:    50080101
+   Title:              PN Note              Title:              Anticoagulation No*  Title:              Personal Note
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120142               Community ID:       120145               Community ID:       120121
+   Abbreviation:       PN Note              Abbreviation:       ACC Notes            Abbreviation:       Personal Not
+   Synonym:            PN                   Synonym:            Anticoagulation No*  Synonym:            
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    60080101             Category number:    304756001            Category number:    304756002
+   Title:              Dialysis Note        Title:              MDT (Attendee)       Title:              MDT (Final)
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120135               Community ID:       120143               Community ID:       120144
+Page 10                                                                                                         Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+   Abbreviation:       Dialysis Not         Abbreviation:       MDT Attendee         Abbreviation:       MDT Final
+   Synonym:                                 Synonym:            MDT                  Synonym:            MDT
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    304756003            Category number:    1090000011           Category number:    2100000001
+   Title:              Form Base            Title:              BMT Planning         Title:              Medical Report
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120150               Community ID:       120104               Community ID:       120103
+   Abbreviation:       Form Base            Abbreviation:       BMT Planning         Abbreviation:       Medical Repo
+   Synonym:            Form                 Synonym:            HCT                  Synonym:            Medical Report
+                       Generic                                  SCT                                      
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    2100000002           Category number:    2100000003           Category number:    3040550001
+   Title:              MRO Paper Form       Title:              Sensitive Transpla*  Title:              Brain/Cardiac Death
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120119               Community ID:       120151               Community ID:       120120
+   Abbreviation:       MRO Paper Fo         Abbreviation:       SensitiveTXP         Abbreviation:       Death
+   Synonym:                                 Synonym:                                 Synonym:            Death
+                                                                                                         Brain Death
+                                                                                                         Cardiac Death
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    3040840006           Category number:    3049000001           Category number:    3049000002
+   Title:              Peritoneal Dialysi*  Title:              Communication Note   Title:              Pre-Sedation
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120146               Community ID:       140122               Community ID:       120123
+   Abbreviation:       PD Note              Abbreviation:       Comms                Abbreviation:       Pre-Sedation
+   Synonym:                                 Synonym:            Communication        Synonym:            Pre
+                                                                                                         Pre sedation
+                                                                                                         Sed
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    3049000003           Category number:    3049000004           Category number:    3049000005
+   Title:              Med Intervention     Title:              Chargeable Note      Title:              Clinical Pathway
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120125               Community ID:       120100               Community ID:       120114
+   Abbreviation:       Med Interven         Abbreviation:       Chargeable           Abbreviation:       Clin Path
+   Synonym:            Inter                Synonym:                                 Synonym:            CP
+                       Med                                                                               
+                       Med Intervene                                                                     
+   Status:             Active               Status:             Active               Status:             Active
+Page 11                                                                                                         Date: 23/12/2021
+                                                      View Chronicles Category                                  Time: 2:48 PM SGT-8
+
+
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    3049000006           Category number:    3049000007           Category number:    3049000008
+   Title:              Admission Notes      Title:              Transfer Notes       Title:              Rounding Notes
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120116               Community ID:       120117               Community ID:       120118
+   Abbreviation:       Admission            Abbreviation:       Transfer             Abbreviation:       Rounding
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    3049000009           Category number:    3049000010           Category number:    3049000011
+   Title:              Allied Health        Title:              Blood Product Rele*  Title:              Inpatient DM manag*
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120130               Community ID:       120133               Community ID:       120137
+   Abbreviation:       Allied Healt         Abbreviation:       Blood Produc         Abbreviation:       Inpatient DM
+   Synonym:                                 Synonym:            Blood Product        Synonym:            SPARK
+                                                                MTP Memo                                 IP Diabetes Managm*
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    3049000012           Category number:    40830082021          Category number:    40830082022
+   Title:              Transplant Coordin*  Title:              Admission Medicati*  Title:              Discharge Medicati*
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120139               Community ID:       120148               Community ID:       120149
+   Abbreviation:       Transplant C         Abbreviation:       Adm Med Rec          Abbreviation:       Dc Med Recon
+   Synonym:            NOTU User            Synonym:            Adm Med Recon        Synonym:            Dc Med Recon
+                       MOH User                                 AMR                                      DMR
+                       External Transplant                      Adm Rec                                  Dis Rec
+                                                                Adm Med                                  Disch Med Rec
+                                                                Ad Med Rec                               Dc MR
+                                                                Adm MR                                   
+   Status:             Active               Status:             Active               Status:             Active
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
+------------------------------------------+|+--------------------------------------+|+-----------------------------------------
+ 
+   Category number:    *                    Category number:    MDT(ATTENDEE)        Category number:    MDT(FINAL)
+   Title:              Radiation Oncology*  Title:              IMH MDT (Attendee)   Title:              IMH MDT (Final)
+   Owner:              120                  Owner:              120                  Owner:              120
+   Community ID:       120101               Community ID:       120140               Community ID:       120141
+   Abbreviation:       Rad Onc              Abbreviation:       MDT Attendee         Abbreviation:       MDT (Final)
+   Synonym:            Rad Onc Treatment *  Synonym:            MDT                  Synonym:            MDT
+   Status:             Deactivated          Status:             Deactivated          Status:             Deactivated
+   Category Type:      Custom               Category Type:      Custom               Category Type:      Custom
+
